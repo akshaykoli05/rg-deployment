@@ -21,3 +21,4 @@ terraform.rc
 *.tfstate
 *.tfstate.*
 crash.log
+*.exe
